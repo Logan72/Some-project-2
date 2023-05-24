@@ -1,0 +1,20 @@
+c:\users\vu kee vyong\documents\visual studio 2013\Projects\Anthill\Anthill\bin\Debug\Anthill.exe.config
+c:\users\vu kee vyong\documents\visual studio 2013\Projects\Anthill\Anthill\bin\Debug\Anthill.exe
+c:\users\vu kee vyong\documents\visual studio 2013\Projects\Anthill\Anthill\bin\Debug\Anthill.pdb
+c:\users\vu kee vyong\documents\visual studio 2013\Projects\Anthill\Anthill\obj\Debug\Anthill.Form1.resources
+c:\users\vu kee vyong\documents\visual studio 2013\Projects\Anthill\Anthill\obj\Debug\Anthill.Properties.Resources.resources
+c:\users\vu kee vyong\documents\visual studio 2013\Projects\Anthill\Anthill\obj\Debug\Anthill.csproj.GenerateResource.Cache
+c:\users\vu kee vyong\documents\visual studio 2013\Projects\Anthill\Anthill\obj\Debug\Anthill.exe
+c:\users\vu kee vyong\documents\visual studio 2013\Projects\Anthill\Anthill\obj\Debug\Anthill.pdb
+C:\Users\Vu Kee Vyong\documents\visual studio 2013\Projects\Anthill\Anthill\obj\Debug\Anthill.csprojResolveAssemblyReference.cache
+C:\Users\VovaWork\Desktop\Anthill\Anthill\Anthill\bin\Debug\Anthill.exe.config
+C:\Users\VovaWork\Desktop\Anthill\Anthill\Anthill\bin\Debug\Anthill.exe
+C:\Users\VovaWork\Desktop\Anthill\Anthill\Anthill\bin\Debug\Anthill.pdb
+C:\Users\VovaWork\Desktop\Anthill\Anthill\Anthill\obj\Debug\Anthill.csproj.AssemblyReference.cache
+C:\Users\VovaWork\Desktop\Anthill\Anthill\Anthill\obj\Debug\Anthill.csproj.SuggestedBindingRedirects.cache
+C:\Users\VovaWork\Desktop\Anthill\Anthill\Anthill\obj\Debug\Anthill.Form1.resources
+C:\Users\VovaWork\Desktop\Anthill\Anthill\Anthill\obj\Debug\Anthill.Properties.Resources.resources
+C:\Users\VovaWork\Desktop\Anthill\Anthill\Anthill\obj\Debug\Anthill.csproj.GenerateResource.cache
+C:\Users\VovaWork\Desktop\Anthill\Anthill\Anthill\obj\Debug\Anthill.csproj.CoreCompileInputs.cache
+C:\Users\VovaWork\Desktop\Anthill\Anthill\Anthill\obj\Debug\Anthill.exe
+C:\Users\VovaWork\Desktop\Anthill\Anthill\Anthill\obj\Debug\Anthill.pdb
