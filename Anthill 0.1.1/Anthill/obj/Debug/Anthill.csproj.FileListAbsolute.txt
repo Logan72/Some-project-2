@@ -1,0 +1,38 @@
+c:\users\vu kee vyong\documents\visual studio 2013\Projects\Anthill\Anthill\bin\Debug\Anthill.exe.config
+c:\users\vu kee vyong\documents\visual studio 2013\Projects\Anthill\Anthill\bin\Debug\Anthill.exe
+c:\users\vu kee vyong\documents\visual studio 2013\Projects\Anthill\Anthill\bin\Debug\Anthill.pdb
+c:\users\vu kee vyong\documents\visual studio 2013\Projects\Anthill\Anthill\obj\Debug\Anthill.Form1.resources
+c:\users\vu kee vyong\documents\visual studio 2013\Projects\Anthill\Anthill\obj\Debug\Anthill.Properties.Resources.resources
+c:\users\vu kee vyong\documents\visual studio 2013\Projects\Anthill\Anthill\obj\Debug\Anthill.csproj.GenerateResource.Cache
+c:\users\vu kee vyong\documents\visual studio 2013\Projects\Anthill\Anthill\obj\Debug\Anthill.exe
+c:\users\vu kee vyong\documents\visual studio 2013\Projects\Anthill\Anthill\obj\Debug\Anthill.pdb
+C:\Users\Vu Kee Vyong\documents\visual studio 2013\Projects\Anthill\Anthill\obj\Debug\Anthill.csprojResolveAssemblyReference.cache
+C:\Users\Vu Kee Vyong\Documents\Visual Studio 2013\Projects\Anthill — копия\Anthill\bin\Debug\Anthill.exe.config
+C:\Users\Vu Kee Vyong\Documents\Visual Studio 2013\Projects\Anthill — копия\Anthill\obj\Debug\Anthill.exe
+C:\Users\Vu Kee Vyong\Documents\Visual Studio 2013\Projects\Anthill — копия\Anthill\obj\Debug\Anthill.pdb
+C:\Users\Vu Kee Vyong\Documents\Visual Studio 2013\Projects\Anthill — копия\Anthill\bin\Debug\Anthill.exe
+C:\Users\Vu Kee Vyong\Documents\Visual Studio 2013\Projects\Anthill — копия\Anthill\bin\Debug\Anthill.pdb
+C:\Users\Vu Kee Vyong\Documents\Visual Studio 2013\Projects\Anthill — копия\Anthill\obj\Debug\Anthill.csprojResolveAssemblyReference.cache
+C:\Users\Vu Kee Vyong\Documents\Visual Studio 2013\Projects\Anthill — копия\Anthill\obj\Debug\Anthill.Form1.resources
+C:\Users\Vu Kee Vyong\Documents\Visual Studio 2013\Projects\Anthill — копия\Anthill\obj\Debug\Anthill.Properties.Resources.resources
+C:\Users\Vu Kee Vyong\Documents\Visual Studio 2013\Projects\Anthill — копия\Anthill\obj\Debug\Anthill.csproj.GenerateResource.Cache
+C:\Users\Vu Kee Vyong\Documents\Visual Studio 2013\Projects\Anthill 0.1.1\Anthill\bin\Debug\Anthill.exe.config
+C:\Users\Vu Kee Vyong\Documents\Visual Studio 2013\Projects\Anthill 0.1.1\Anthill\obj\Debug\Anthill.exe
+C:\Users\Vu Kee Vyong\Documents\Visual Studio 2013\Projects\Anthill 0.1.1\Anthill\obj\Debug\Anthill.pdb
+C:\Users\Vu Kee Vyong\Documents\Visual Studio 2013\Projects\Anthill 0.1.1\Anthill\bin\Debug\Anthill.exe
+C:\Users\Vu Kee Vyong\Documents\Visual Studio 2013\Projects\Anthill 0.1.1\Anthill\bin\Debug\Anthill.pdb
+C:\Users\Vu Kee Vyong\Documents\Visual Studio 2013\Projects\Anthill 0.1.1\Anthill\obj\Debug\Anthill.csprojResolveAssemblyReference.cache
+C:\Users\Vu Kee Vyong\Documents\Visual Studio 2013\Projects\Anthill 0.1.1\Anthill\obj\Debug\Anthill.Form1.resources
+C:\Users\Vu Kee Vyong\Documents\Visual Studio 2013\Projects\Anthill 0.1.1\Anthill\obj\Debug\Anthill.Properties.Resources.resources
+C:\Users\Vu Kee Vyong\Documents\Visual Studio 2013\Projects\Anthill 0.1.1\Anthill\obj\Debug\Anthill.csproj.GenerateResource.Cache
+C:\Users\VovaWork\Documents\Visual Studio projects\C#\Anthill 0.1.1\Anthill\bin\Debug\Anthill.exe.config
+C:\Users\VovaWork\Documents\Visual Studio projects\C#\Anthill 0.1.1\Anthill\bin\Debug\Anthill.exe
+C:\Users\VovaWork\Documents\Visual Studio projects\C#\Anthill 0.1.1\Anthill\bin\Debug\Anthill.pdb
+C:\Users\VovaWork\Documents\Visual Studio projects\C#\Anthill 0.1.1\Anthill\obj\Debug\Anthill.csproj.AssemblyReference.cache
+C:\Users\VovaWork\Documents\Visual Studio projects\C#\Anthill 0.1.1\Anthill\obj\Debug\Anthill.csproj.SuggestedBindingRedirects.cache
+C:\Users\VovaWork\Documents\Visual Studio projects\C#\Anthill 0.1.1\Anthill\obj\Debug\Anthill.Form1.resources
+C:\Users\VovaWork\Documents\Visual Studio projects\C#\Anthill 0.1.1\Anthill\obj\Debug\Anthill.Properties.Resources.resources
+C:\Users\VovaWork\Documents\Visual Studio projects\C#\Anthill 0.1.1\Anthill\obj\Debug\Anthill.csproj.GenerateResource.cache
+C:\Users\VovaWork\Documents\Visual Studio projects\C#\Anthill 0.1.1\Anthill\obj\Debug\Anthill.csproj.CoreCompileInputs.cache
+C:\Users\VovaWork\Documents\Visual Studio projects\C#\Anthill 0.1.1\Anthill\obj\Debug\Anthill.exe
+C:\Users\VovaWork\Documents\Visual Studio projects\C#\Anthill 0.1.1\Anthill\obj\Debug\Anthill.pdb
