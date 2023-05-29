@@ -1,8 +1,0 @@
-C:\Users\Vu Kee Vyong\documents\visual studio 2013\Projects\Anthill\Anthill\bin\Release\Anthill.exe.config
-C:\Users\Vu Kee Vyong\documents\visual studio 2013\Projects\Anthill\Anthill\bin\Release\Anthill.exe
-C:\Users\Vu Kee Vyong\documents\visual studio 2013\Projects\Anthill\Anthill\bin\Release\Anthill.pdb
-C:\Users\Vu Kee Vyong\documents\visual studio 2013\Projects\Anthill\Anthill\obj\Release\Anthill.Form1.resources
-C:\Users\Vu Kee Vyong\documents\visual studio 2013\Projects\Anthill\Anthill\obj\Release\Anthill.Properties.Resources.resources
-C:\Users\Vu Kee Vyong\documents\visual studio 2013\Projects\Anthill\Anthill\obj\Release\Anthill.csproj.GenerateResource.Cache
-C:\Users\Vu Kee Vyong\documents\visual studio 2013\Projects\Anthill\Anthill\obj\Release\Anthill.exe
-C:\Users\Vu Kee Vyong\documents\visual studio 2013\Projects\Anthill\Anthill\obj\Release\Anthill.pdb
